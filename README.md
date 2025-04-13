@@ -1,4 +1,4 @@
 # Atividade-Chart.js
-SMART BOOTCAMP - Atividade - Chart.JS - Para casa
+SMART BOOTCAMP - Atividade - Chart.JS
 
 Disciplina: Pesquisa e Inovação (PI)
